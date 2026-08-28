@@ -18,6 +18,7 @@ Claude / Claude Code · Python · SQL · BigQuery · dbt · RAG and vector searc
 
 ### Elsewhere
 
+- Site — https://nikdumroese.com
 - LinkedIn — https://linkedin.com/in/nikdumroese
 - Email — niklaas.dumroese@gmail.com
 
